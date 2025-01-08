@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dibashgautam
-- 🌱 I’m currently learning flutter
+- 👋 Hi, I’m Dibash Gautam
+- 🌱 I’m a flutter and python developer
 
   
 <!---
